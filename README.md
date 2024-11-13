@@ -1,4 +1,4 @@
-## Hi there <img src="./Wave.gif" width="300" alt="Waving Animation">
+## Hi there <img src="./Wave.gif" width="5" alt="Waving Animation">
 
 
 I'm [Deni](https://denibravo.github.io/portfolio/), a student from Pennsylvania.
