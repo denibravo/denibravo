@@ -1,4 +1,4 @@
-## Hi there ![Waving Animation](wave.gif)
+## Hi there ![Waving Animation](./Wave.gif)
 
 I'm [Deni](https://denibravo.github.io/portfolio/), a student from Pennsylvania.
 
