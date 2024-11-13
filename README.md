@@ -10,4 +10,4 @@ Outside of work, I'm usually at the gym or studying. I'm also very passionate ab
 
 Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/denibravo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/denibravo)  
