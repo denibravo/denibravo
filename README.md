@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**denibravo/denibravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Deni Bravo, a student from Pennsylvania.
 
-Here are some ideas to get you started:
+I'm primarily interested in **Data Science**, and currently work on an application. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fascinated by machine learning and data science and have worked on a few machine learning models both in school and outside of school.
+
+Outside of work, I'm interested in sports and watching youtube. I'm also very passionate about content creation and mangas.
+
+Let's connect!
+
+[GitHub Pages Website Link](https://denibravo.github.io/portfolio/)  
+[LinkedIn](https://www.linkedin.com/in/denibravo)  
