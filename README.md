@@ -1,4 +1,4 @@
-## Hi there ![Waving Animation](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+## Hi there ![Waving Animation](wave.gif)
 
 I'm [Deni](https://denibravo.github.io/portfolio/), a student from Pennsylvania.
 
